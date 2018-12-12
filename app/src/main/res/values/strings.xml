@@ -3,4 +3,6 @@
     <string name="btn_cargar">Cargar</string>
     <string name="tv_dispositivo">Dispositivo</string>
     <string name="tv_direccion_ip">Dirección IP</string>
+    <string name="tv_linea">LINEA</string>
+    <string name="tv_mesa">MESA</string>
 </resources>

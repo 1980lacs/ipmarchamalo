@@ -97,7 +97,6 @@ public class MainActivity extends AppCompatActivity {
                 equipo.setText(item.getEquipo());
             }
         }
-        Toast.makeText(getApplicationContext(),"" + x + y,Toast.LENGTH_SHORT).show();
     }
 
 }
